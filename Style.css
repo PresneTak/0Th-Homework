@@ -1,0 +1,117 @@
+
+html{
+    line-height: 140%;
+
+    background-color: rgb(0, 0, 0);
+ }
+
+   .home{
+       position: absolute;
+       top: 0.4cm;
+       left: 20cm;
+       font-size: 1cm;
+   }
+
+   .wiki{
+       position: absolute;
+       top: 0.4cm;
+       left: 24cm;
+       font-size: 1cm;
+   }
+
+   .calculator{
+       position:absolute;
+       top: 0.4cm;
+       left: 28cm;
+   }
+
+   .youtube{
+    position: absolute;
+    top: 0.4cm;
+    left: 32cm;
+    font-size: 1cm;
+
+   }
+
+p {
+    /*farba*/
+    color:white;
+    /*veľkosť písma*/
+    font-size: 20px;
+    /*oddelenie písma od seba*/
+    letter-spacing: px;
+    text-align: ;
+    line-height: cm; 
+    /*oddelenie písma od okraju*/
+    padding-left: 10%cm;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    font-variant:inherit ;
+    
+
+    
+}
+
+    .parent{
+        position:relative;
+        top: -0.21cm;
+        left: -0.21cm;
+    }
+
+    .gif{
+        position:absolute;
+        top: 0.4cm;
+        left: 4cm;
+    }
+
+h1 {
+
+    font-size: 1.1cm;
+    color: blue;
+
+}
+
+h2 { /* Technology wiki */
+
+    font-size:34px ;
+    /*umiestenie textu*/
+    position:fixed;
+    left: 16cm;
+
+    
+    
+    text-indent: ;
+}
+
+h3 { /* Kuchar it technik */
+
+    color: blue;
+  font-size: 30px;
+  
+
+}
+
+h4 { /* Instruction set */
+
+    color:black;
+    font-size: 25px;
+    position: relative;
+    bottom: -1.5cm;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+ p,h2,h3,h4{
+     color: white;
+ }
+p,h1,h3,h4 {
+    margin-left: 2cm;
+    
+
+}
+
+.text {
+    color: red;
+    font-family: ;
+    
+}
